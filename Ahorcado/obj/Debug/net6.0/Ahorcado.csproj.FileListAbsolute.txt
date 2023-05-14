@@ -1,0 +1,15 @@
+C:\Users\edwar\source\repos\Ahorcado\Ahorcado\bin\Debug\net6.0\Ahorcado.exe
+C:\Users\edwar\source\repos\Ahorcado\Ahorcado\bin\Debug\net6.0\Ahorcado.deps.json
+C:\Users\edwar\source\repos\Ahorcado\Ahorcado\bin\Debug\net6.0\Ahorcado.runtimeconfig.json
+C:\Users\edwar\source\repos\Ahorcado\Ahorcado\bin\Debug\net6.0\Ahorcado.dll
+C:\Users\edwar\source\repos\Ahorcado\Ahorcado\bin\Debug\net6.0\Ahorcado.pdb
+C:\Users\edwar\source\repos\Ahorcado\Ahorcado\obj\Debug\net6.0\Ahorcado.csproj.AssemblyReference.cache
+C:\Users\edwar\source\repos\Ahorcado\Ahorcado\obj\Debug\net6.0\Ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwar\source\repos\Ahorcado\Ahorcado\obj\Debug\net6.0\Ahorcado.AssemblyInfoInputs.cache
+C:\Users\edwar\source\repos\Ahorcado\Ahorcado\obj\Debug\net6.0\Ahorcado.AssemblyInfo.cs
+C:\Users\edwar\source\repos\Ahorcado\Ahorcado\obj\Debug\net6.0\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\edwar\source\repos\Ahorcado\Ahorcado\obj\Debug\net6.0\Ahorcado.dll
+C:\Users\edwar\source\repos\Ahorcado\Ahorcado\obj\Debug\net6.0\refint\Ahorcado.dll
+C:\Users\edwar\source\repos\Ahorcado\Ahorcado\obj\Debug\net6.0\Ahorcado.pdb
+C:\Users\edwar\source\repos\Ahorcado\Ahorcado\obj\Debug\net6.0\Ahorcado.genruntimeconfig.cache
+C:\Users\edwar\source\repos\Ahorcado\Ahorcado\obj\Debug\net6.0\ref\Ahorcado.dll
